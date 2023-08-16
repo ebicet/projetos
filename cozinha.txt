@@ -1,0 +1,5 @@
+Faca
+garfo
+colher
+prato
+panela 
