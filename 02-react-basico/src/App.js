@@ -1,12 +1,13 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Calculation from "./components/Calculation";
 import Component01 from "./components/Component01";
 
 function App() {
   return (
     <div className="Novo Projeto">
-      {" "}
-      import {Component01} from "Component01";
+      <h1 align>"Novo projeto"</h1>
+      <Component01 />
+      <Calculation />
     </div>
   );
 }
